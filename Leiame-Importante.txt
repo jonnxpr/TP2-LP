@@ -1,0 +1,24 @@
+=====================================
+Instruções para compilação e execução
+=====================================
+O diretório raiz contém dois diretórios:
+1. CodigoFonte+BancoDeDados
+2. ExecutavelJar+BancoDeDados
+3. ProjetoNetbeans
+
+Para realizar a compilação e execução através do código fonte
+é preciso considerar que a classe principal é a "TelaLogin.java".
+Existem 3 usuários padrões já cadastrados para teste:
+username      senha
+admin	      12345
+profissional  12345
+cliente       12345
+
+É possível realizar a execução direto do arquivo .jar. O diretório
+também contém os arquivos de banco de dados que devem ser mantidos 
+no mesmo diretório. Os usuários padrões para teste são os mesmos
+definidos acima.
+
+Caso a compilação do código não funcione, foi incluido o projeto
+em formato .zip que pode ser importado no NetBeans e então executado 
+para testes.
